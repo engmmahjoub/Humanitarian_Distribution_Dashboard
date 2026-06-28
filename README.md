@@ -25,4 +25,5 @@ This dashboard demonstrates data analysis and visualization skills for humanitar
 
 ## Dashboard Preview
 
-(Add Screenshot Here)
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/d77ce323-e5b2-4039-83c4-83cac551386c" />
+
